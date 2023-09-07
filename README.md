@@ -1,15 +1,21 @@
-# fernandev
+<h1 align="center"> React Interview Challenge #02  </h1>
 
-## React Interview Challenge #02
+![Alt text](image.png)
 
-E aí dev, tudo bem? Trouxe pra você mais um desafio de entrevista para que você possa treinar em casa e aprimorar suas habilidades.
+### Instructions:
+- You have a uncompleted form. It's not valid add new HTML elements neither use UseRef hook.
 
-Dessa vez temos um formulário de login incompleto e a sua missão é finalizar ele para a sua equipe.
+### Tasks:
+- The login button should call login() function imported inside de "App.jsx" file and pass all necessary data;
+- Disable the login button with the email is blank or if the password is less the 6 digits;
+- There'll have a daley when you clicks the login button simulating the database search. You must disable the login button while this happens;
+- Show an error message if the login fails. The message should be clean after every new login attempt;
+- Show an alert message if the login succeed. 
 
-Preste bem atenção às instruções dentro do arquivo App.jsx e bora codar!
+<br>
 
-**Se você curtir esse conteúdo, deixa uma STAR aí nesse repo,** porque isso me motiva a trazer mais conteúdos desse gênero.
+**PS:** The success login is with the password **_"password123"_**. The email can be any.
 
-## Resolução do desafio
+## Challenge Resolution - Fernandev (PT-BT)
 
 https://youtu.be/NAtf3T9gG7s
